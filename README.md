@@ -18,3 +18,6 @@ This repo would house common resources useful for all CE-STM subgroups, like
 2. [Detector configurations](detector_configurations/configurations.md)
 3. [Population models](population/population.md), parameters, etc.
 
+## STM subgroup repos
+
+1. [TGR](www.github.com/vaishakp/ce-stm-tgr.git)
