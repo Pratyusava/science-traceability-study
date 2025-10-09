@@ -20,4 +20,4 @@ This repo would house common resources useful for all CE-STM subgroups, like
 
 ## STM subgroup repos
 
-1. [TGR](www.github.com/vaishakp/ce-stm-tgr.git)
+1. [TGR](https://github.com/vaishakp/ce-stm-tgr/)
