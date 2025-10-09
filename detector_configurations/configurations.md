@@ -12,8 +12,8 @@
 Source: [Class. Quantum Grav. 41 (2024) 245001](https://iopscience.iop.org/article/10.1088/1361-6382/ad7b99/pdf)
 
 ## Configuration files
-1. [CE40 (CE-A) in Gulf of America](CE40.ifo)
-1. [CE20 (CE-B) in Pacific Northwest](CE20.ifo)
+1. [CE40 (CE-A) in Gulf of America](detector_configurations/bilby/CE40.ifo)
+1. [CE20 (CE-B) in Pacific Northwest](detector_configurations/bilby/CE20.ifo)
 
 Source: [GWFORGE](https://github.com/koustavchandra/gwforge/tree/587b0db7bf1a37d0f1f96e7c4700ac74455efbc3/GWForge/ifo/ifos)
 
