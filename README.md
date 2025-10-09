@@ -12,8 +12,8 @@
    3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
 
 This repo would house common resources useful for all CE-STM subgroups, like
-1. PSDs
-2. Detector locations
-3. Population models, parameters, etc.
+1. [PSDs](psd/)
+2. [Detector configurations](detector_configurations/)
+3. [Population models](population), parameters, etc.
 
 They will be linked here soon
