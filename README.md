@@ -1,6 +1,6 @@
 # Central repo for coordinating CE-STM study
 
-
+## Useful links
 1. [Science traceability matrix worksheet](https://docs.google.com/spreadsheets/d/1B80x-tropBN72vWFrzy340Z8rSlZ7fZPjYyoVCZUF8g/edit?gid=565516239#gid=565516239)   
 2. [STM Meeting minutes](https://docs.google.com/document/d/1s7_K08WINGpA2mwgS5sOl8UF6p8LDL1yNAjLkTPiKPw/edit?tab=t.0)   
 3. [STM Timeline](https://docs.google.com/document/d/10SoGxckP27lC824mTDJ1VIA0VC9W-XMlp6qpsHw5ijM/edit?tab=t.0)
@@ -11,9 +11,10 @@
    2. [Pathways to Discovery in Astronomy and Astrophysics](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s)
    3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
 
+
+## Contents
 This repo would house common resources useful for all CE-STM subgroups, like
 1. [PSDs](psd/)
 2. [Detector configurations](detector_configurations/)
 3. [Population models](population), parameters, etc.
 
-They will be linked here soon
