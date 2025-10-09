@@ -14,7 +14,7 @@
 
 ## Contents
 This repo would house common resources useful for all CE-STM subgroups, like
-1. [PSDs](psd/)
-2. [Detector configurations](detector_configurations/)
-3. [Population models](population), parameters, etc.
+1. [ASDs](asd/asd.md)
+2. [Detector configurations](detector_configurations/configurations.md)
+3. [Population models](population/population.md), parameters, etc.
 

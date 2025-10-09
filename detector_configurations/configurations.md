@@ -15,7 +15,9 @@ Source: [Class. Quantum Grav. 41 (2024) 245001](https://iopscience.iop.org/artic
 1. [CE40 (CE-A) in Gulf of America](detector_configurations/bilby/CE40.ifo)
 1. [CE20 (CE-B) in Pacific Northwest](detector_configurations/bilby/CE20.ifo)
 
-Source: [GWFORGE](https://github.com/koustavchandra/gwforge/tree/587b0db7bf1a37d0f1f96e7c4700ac74455efbc3/GWForge/ifo/ifos)
+
+# Notes
+1. Source: [GWFORGE](https://github.com/koustavchandra/gwforge/tree/587b0db7bf1a37d0f1f96e7c4700ac74455efbc3/GWForge/ifo/ifos)
 
 
 # References 
