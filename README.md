@@ -20,3 +20,4 @@ This repo would house common resources useful for all CE-STM subgroups, like
 ## STM subgroup repos
 
 1. [TGR](https://github.com/vaishakp/ce-stm-tgr/)
+    1. Contact: [Vaishak Prasad](mailto:vaishakprasad@psu.edu), [Arnab Dhani](mailto:arnab.dhani@aei.mpg.de)
