@@ -16,10 +16,7 @@ This repo would house common resources useful for all CE-STM subgroups, like
 1. [ASDs](asd/ASD.md)
 2. [Detector configurations](detector_configurations/configurations.md)
 3. [Population models](population/population.md), parameters, etc.
-<<<<<<< HEAD
 
 ## STM subgroup repos
 
 1. [TGR](https://github.com/vaishakp/ce-stm-tgr/)
-=======
->>>>>>> a464d3b (update)
